@@ -1,2 +1,2 @@
 # base_Rust
-Share some rust courses from stepik.org
+Share some rust tasks from : https://stepik.org/course/171372/syllabus
